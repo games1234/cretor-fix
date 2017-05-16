@@ -1,2 +1,4 @@
 # cretor-fix
-news Miui8 creator update em breve...
+News Miui8 creator update em breve...;
+dupli fix;
+update-creator-fix
