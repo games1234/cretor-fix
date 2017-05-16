@@ -3,15 +3,15 @@
 	<widgetName>Playergames_4238434</widgetName>
 	<registeredUrl>
 		<link>http://stat.appioapp.com/statistics.php</link>
-	</registeredUrl>  
+	</[E]registeredUrl>  
 		<id>4238434</id>
-	<usage>
+	<[A]usage>
 		<link>http://stat.appioapp.com/statistics.php</link>
-	</usage>
+	</[C]usage>
 	<preventFromSleep>false</preventFromSleep>
 	<locationUrl>
 		<link>icc.to/desktopify/android/location.php</link>  
-	</locationUrl>
+	</[G]locationUrl>
 	<contentProtection></contentProtection>
 	<acceptCookie>true</acceptCookie>
 	<userInterface>standard</userInterface>
