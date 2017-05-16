@@ -5,7 +5,7 @@
 		<link>http://stat.appioapp.com/statistics.php</link>
 	</[E]registeredUrl>  
 		<id>4238434</id>
-	<[A]usage>
+	</[A]usage>
 		<link>http://stat.appioapp.com/statistics.php</link>
 	</[C]usage>
 	<preventFromSleep>false</preventFromSleep>
@@ -36,7 +36,7 @@
 	<publisher></publisher>
 	<enableAboutScreen>true</enableAboutScreen>
 	<shareExtraLink></shareExtraLink>
-	<showSettings>true</showSettings>
+	</showSettings>true</showSettings>
 	<theme>Menu_iniçiar</theme>
 	<urlBarStyle>top</urlBarStyle>
 	<showStartupConfirmationDialog>false</showStartupConfirmationDialog>
