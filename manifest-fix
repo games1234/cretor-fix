@@ -1,0 +1,837 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: cust/cust/kz/cust.prop
+SHA1-Digest: srZnyXJQEhzEY0iqpWQa+EFUqPg=
+
+Name: cust/cust/mr/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/bd/cust.prop
+SHA1-Digest: V/I+cs/7Wi8RpehbdSsY2K4bgLk=
+
+Name: cust/cust/br/cust.prop
+SHA1-Digest: l/NkoX7jaTpBDdNKibT9DYWFt84=
+
+Name: cust/cust/eg/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/app/customized/ota-miui-BBS_MSITE/ota-miui-BBS_MSITE.apk
+SHA1-Digest: BsoAUfeliksA/L80C8faWXmEdVc=
+
+Name: cust/cust/sv/cust.prop
+SHA1-Digest: YWL8JaSxH1ZZYsEpjdkA2Viuals=
+
+Name: cust/cust/gs/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ph/browser/application_cache.zip
+SHA1-Digest: ijLNNszySgQSXLxOP1sZ4gTU1Ak=
+
+Name: cust/cust/hr/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/tw/ota_customized_applist
+SHA1-Digest: j7qjsOdxhI8/izrvGGXNOx1TOLo=
+
+Name: cust/cust/bs/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/hr/cust.prop
+SHA1-Digest: WbWvmnbNhbhE+9k5hEoDO5T4gbs=
+
+Name: cust/cust/dm/cust.prop
+SHA1-Digest: opjSCK/fU9g746Wyi5WBfjHXLNk=
+
+Name: cust/cust/bs/cust.prop
+SHA1-Digest: wWXJ9WMJtx+rWc1oFLwllk0F4LU=
+
+Name: cust/cust/mu/cust.prop
+SHA1-Digest: vmEspgiFhlkgD6LCKnuQDtUkhsk=
+
+Name: cust/cust/pa/cust.prop
+SHA1-Digest: 5DTAmczzKXBXLoWKaqF0ZSdD3nA=
+
+Name: cust/cust/na/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/iq/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/co/cust.prop
+SHA1-Digest: qCIMmTGHeZKXd0ljuNtKPvfvdxw=
+
+Name: cust/cust/gt/cust.prop
+SHA1-Digest: EG+VqyiUpnGR8CcrxWWtwuZalr4=
+
+Name: cust/app/customized/ota-partner-GooglePinyin/ota-partner-GoogleP
+ inyin.apk
+SHA1-Digest: ZANkzHNj55D/5QW0Tba42U4xXb4=
+
+Name: cust/cust/jo/cust.prop
+SHA1-Digest: IyIMAK0Myf9r/VdbReKyJrdMKH0=
+
+Name: cust/cust/ve/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/tt/cust.prop
+SHA1-Digest: 8ig0QXcjxYi0ypsedqWpKB1OvEo=
+
+Name: cust/app/vanward_applist
+SHA1-Digest: Bca7cukWGeGFVs3QRrGy2JnIQgY=
+
+Name: cust/cust/sg/cust.prop
+SHA1-Digest: Eu89LYksYuxwOXhXPxNLKP0oPCo=
+
+Name: cust/cust/gf/cust.prop
+SHA1-Digest: bvZ1YKICjCwqCbP9GtjUNiYn7h8=
+
+Name: cust/cust/ae/cust.prop
+SHA1-Digest: BjBR43Mf/eH1pPtrXOyDfUjWftM=
+
+Name: cust/cust/bz/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/hk/ota_customized_applist
+SHA1-Digest: 3vYHhlrj8fe+HoGe0a4GCqfSN70=
+
+Name: cust/cust/gq/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ua/cust.prop
+SHA1-Digest: METVXQ6tp9AmqHQUopEy8zf4fZQ=
+
+Name: cust/cust/dz/cust.prop
+SHA1-Digest: nByT6MX+3HmNxh1sioWhpRwOkps=
+
+Name: cust/cust/lk/cust.prop
+SHA1-Digest: UgpGg6KIuV8NNsZ1QKI/CbeoT6g=
+
+Name: cust/cust/tr/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ir/cust.prop
+SHA1-Digest: +JvwS3O+adVItjet7MnkrueSBwk=
+
+Name: cust/cust/in/browser/application_cache.zip
+SHA1-Digest: lBKwJD0LW7jfsPc+sKin4tn+SWo=
+
+Name: cust/cust/do/cust.prop
+SHA1-Digest: AJC7+IliI7RNn7FjfkEB81MCVnM=
+
+Name: cust/cust/my/browser/application_cache.zip
+SHA1-Digest: JB0KfDvo63/ffyOTInf6kWC+9Ok=
+
+Name: cust/cust/sa/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ly/cust.prop
+SHA1-Digest: 9DRqaTt3Gqc+YQL6LMC7WHzT1xM=
+
+Name: cust/cust/id/cust.prop
+SHA1-Digest: NJaboulne/1flE7UTsMmiVH/BmY=
+
+Name: cust/cust/tr/cust.prop
+SHA1-Digest: tpfRpZ8pRFp7ivQ3114rEJOJmhE=
+
+Name: cust/cust/vn/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/bh/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ao/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/gr/cust.prop
+SHA1-Digest: UcSFqIJPZHCfK7PEPufMgctsJk8=
+
+Name: cust/cust/cr/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/hu/cust.prop
+SHA1-Digest: bze2XnC0KhMNBN9oBRKYDG9h3TE=
+
+Name: cust/cust/my/ota_customized_applist
+SHA1-Digest: 6fCADjzV/rppry8ifRNfmXXZqAE=
+
+Name: cust/cust/sz/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ci/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/zm/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/app/customized/partner-XMRemoteController/partner-XMRemoteC
+ ontroller.apk
+SHA1-Digest: 2vbcxD7Emcokv3jBv46bZITUsfo=
+
+Name: cust/cust/gd/cust.prop
+SHA1-Digest: vSyi00PjibbdYWRLQjnHNY2mvpU=
+
+Name: cust/cust/jm/cust.prop
+SHA1-Digest: /a8tjwYSZZHUnVfg0k4t3bpJ5Hk=
+
+Name: cust/cust/rw/cust.prop
+SHA1-Digest: KdEZvugKakTTQOiiX9VBCmjfUr0=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: GcffEGoBrWlMVGUmXksp+0p5CIg=
+
+Name: META-INF/com/miui/miui_update
+SHA1-Digest: oBfIgkEPK1/w/Mea5x5JxPQ1dHg=
+
+Name: cust/cust/pk/cust.prop
+SHA1-Digest: EspeaEoad3ZYE21zQNXg19BNbhc=
+
+Name: cust/cust/ec/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/cm/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/gh/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/bg/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/om/cust.prop
+SHA1-Digest: +U3iKxVx9HkJz6XK4ScUEizwARQ=
+
+Name: cust/cust/sr/cust.prop
+SHA1-Digest: yYvVchzVnXC27CI7XIKln3l8zPw=
+
+Name: cust/cust/py/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/qa/cust.prop
+SHA1-Digest: l8NtQ3OZP7JmBf4PxZjd63tV8Rw=
+
+Name: system.transfer.list
+SHA1-Digest: RBI24yedJhl4JQQqgp4yhRKTBmE=
+
+Name: cust/cust/ro/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/mr/cust.prop
+SHA1-Digest: iCofn/GWlTbWG4KBqssRsUvyjhQ=
+
+Name: cust/cust/mm/theme/.data/content/theme/ZawgyiX1.mrc
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: cust/cust/il/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/bg/cust.prop
+SHA1-Digest: Mujb9WFpG0UFEym2m1qsNjtm4S4=
+
+Name: cust/cust/sy/cust.prop
+SHA1-Digest: xkAK6EcJf5bxCXP8aDao2Nx67/o=
+
+Name: cust/cust/gq/cust.prop
+SHA1-Digest: tu5+zKtZPdc6ElSHc5aOZF9mAIg=
+
+Name: cust/cust/ug/cust.prop
+SHA1-Digest: vdvYzj0qH1XvZNXrEMF21gL7kco=
+
+Name: cust/cust/tw/cust.prop
+SHA1-Digest: 29VB1SotjYy6dFBz+rEKDAVriwQ=
+
+Name: cust/cust/mx/cust.prop
+SHA1-Digest: 2AfXEmYOVmM6Nibd62bjFXwQNcM=
+
+Name: cust/cust/sg/ota_customized_applist
+SHA1-Digest: 6fCADjzV/rppry8ifRNfmXXZqAE=
+
+Name: cust/cust/sg/wpa_supplicant_customization.conf
+SHA1-Digest: n3biJCBGlk//qDdggc9hnhQPJ+A=
+
+Name: cust/cust/kp/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/tz/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/za/cust.prop
+SHA1-Digest: NRCsRwXWE4DoK5w25VubnmvhLa0=
+
+Name: cust/cust/ni/cust.prop
+SHA1-Digest: 0WGjWhdcW78Ql+45OmZ+Fn9YlUE=
+
+Name: cust/cust/pk/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/il/cust.prop
+SHA1-Digest: mxNuwCvM6efzr8K35WepZa9tBb4=
+
+Name: cust/cust/tm/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/es/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ru/cust.prop
+SHA1-Digest: zBtFGm8S3VmyAY4h+l86+XmPxT8=
+
+Name: cust/cust/qa/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/np/cust.prop
+SHA1-Digest: bHnre2UvnY4/2d5z4PMieY9wJdQ=
+
+Name: cust/cust/de/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/pe/cust.prop
+SHA1-Digest: +NtYz91yH21AF79Wx1qx/m9VrnQ=
+
+Name: firmware-update/sbl1.mbn
+SHA1-Digest: IFIoxY7jtPnQRA1Kexe9u3xD3Oc=
+
+Name: cust/cust/cu/cust.prop
+SHA1-Digest: M0zKu+7884m5OQIHCG98I2MAWaE=
+
+Name: cust/cust/cd/cust.prop
+SHA1-Digest: 0nz43xd6RCXCiISXF84wnbI95Uk=
+
+Name: firmware-update/cmnlib.mbn
+SHA1-Digest: ekbfyj3Orw0R81qnNG/VRqKmsOg=
+
+Name: cust/cust/bh/cust.prop
+SHA1-Digest: 48Z6XJKHOgTPkgv1/VdaQKE6GYc=
+
+Name: cust/cust/fk/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/bb/cust.prop
+SHA1-Digest: OwkPHqk7a1/Az6cMOC3lbI/eYLE=
+
+Name: cust/cust/cd/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/co/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ao/cust.prop
+SHA1-Digest: xf72/9gj+RWJGgI6ErD0FYFkopc=
+
+Name: cust/cust/mm/theme/.data/content/fonts/ZawgyiX1.mrc
+SHA1-Digest: OghqonFm3Fymlhx06XBWjiZ/8MM=
+
+Name: cust/cust/ar/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/in/ota_customized_applist
+SHA1-Digest: X/POilD/sFfaidhtjjYHeq7YwHY=
+
+Name: cust/cust/mw/cust.prop
+SHA1-Digest: jIritY0f7YStC/iLDkRYbeKOAR4=
+
+Name: cust/cust/ng/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ht/cust.prop
+SHA1-Digest: fya5zH3Fnx/LccmYmLEGd2l97y4=
+
+Name: cust/cust/ht/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/mm/theme/.data/preview/theme/ZawgyiX1/preview_fonts_0.
+ jpg
+SHA1-Digest: ZTtMQi/VRC9AVpcPOc86zMmZ7nI=
+
+Name: firmware-update/NON-HLOS.bin
+SHA1-Digest: 4h2QfN4Nain2RLe+uOMSSjkS4Wo=
+
+Name: cust/cust/vc/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ve/cust.prop
+SHA1-Digest: SD6JY1IaVU41jgkyD8WDc7UfLds=
+
+Name: cust/cust/hn/cust.prop
+SHA1-Digest: D7/ZyG/S5Dq7OqW9n4XcrIJTpUM=
+
+Name: cust/cust/iq/cust.prop
+SHA1-Digest: TwG7BiDu29rMNzegsNKWn58OfQ0=
+
+Name: cust/cust/kr/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/kw/cust.prop
+SHA1-Digest: Z9kwI41smVaulFlDTbAVbNBxX8k=
+
+Name: cust/cust/mm/theme/.data/rights/theme/3a086aa27166dc5ca6961c74e9
+ 70568e267ff0c3.mra
+SHA1-Digest: 70z1Nv0rMlUXAM+ZZAeUz6R8pX8=
+
+Name: cust/cust/ma/cust.prop
+SHA1-Digest: UEH5359RoHY8Z2dVLJrTKd1W4V0=
+
+Name: cust/cust/ls/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: system.new.dat
+SHA1-Digest: pr74dcC2u/o5AsIuRiGsUjOb3kk=
+
+Name: cust/cust/zw/cust.prop
+SHA1-Digest: YJcEAUqthp4gJoE1viAN5iBlmS0=
+
+Name: cust/cust/uy/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/mm/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/lc/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/uy/cust.prop
+SHA1-Digest: 3cDuF+SB/YSGOl3+sMWVZB9Xdxs=
+
+Name: firmware-update/emmc_appsboot.mbn
+SHA1-Digest: gmGL3v+btMADoaXDk1i3TN4HGig=
+
+Name: cust/cust/sn/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/gd/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/zm/cust.prop
+SHA1-Digest: fLgnsLtt1oUS3G227VJriAi3bag=
+
+Name: cust/cust/rs/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/hk/cust.prop
+SHA1-Digest: l2s2BVn2q1YLN+ZMJZCZP2PH3gI=
+
+Name: cust/cust/th/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ke/cust.prop
+SHA1-Digest: xaoYZI3fwOaJBPpgIb5jIg3rSJo=
+
+Name: firmware-update/keymaster.mbn
+SHA1-Digest: iPyyLFGTCSYdSeuWvhX+AEb9Hz8=
+
+Name: cust/cust/sy/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ni/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/tm/cust.prop
+SHA1-Digest: iP+cyzDHYkvzygXgWcDRuwuipdc=
+
+Name: cust/cust/bz/cust.prop
+SHA1-Digest: fQIVor+WQUtm2tvnJTMDA8cFHtM=
+
+Name: cust/cust/jo/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ae/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/so/cust.prop
+SHA1-Digest: OFHq5Ufq0BAwzhMMzle2aWPggwQ=
+
+Name: file_contexts
+SHA1-Digest: 5cX32wjkc3y8g9fh/OcZdOgkSU4=
+
+Name: cust/cust/mz/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/gr/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ec/cust.prop
+SHA1-Digest: w2hrRiZ5/AM2dnNpBAqkH+1PGOU=
+
+Name: cust/cust/lc/cust.prop
+SHA1-Digest: 9FTZIl6bHK/1B/EmF8S212FdYhc=
+
+Name: cust/cust/ph/cust.prop
+SHA1-Digest: wjjsl02STOqH+STqf1VJOgH4tOA=
+
+Name: cust/cust/np/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/sa/cust.prop
+SHA1-Digest: GEtqkIdV3cGuN3aSYD4p3zJu6Yc=
+
+Name: cust/cust/mm/cust.prop
+SHA1-Digest: oWxW05wlcmRUi44aWAIAQXbvu1Q=
+
+Name: boot.img
+SHA1-Digest: MyGcewDIAGyQ0d7KkwI+lg3Z9ac=
+
+Name: cust/cust/kr/cust.prop
+SHA1-Digest: DHPJHQWizUl9GIKlKkuLV1ulfNg=
+
+Name: firmware-update/splash.img
+SHA1-Digest: tVN8l5lwltro888Zc+qMhQ/nvBw=
+
+Name: cust/cust/zw/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/sd/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/sn/cust.prop
+SHA1-Digest: 1FRFvzWZRgYHYIeZphQQL96BheI=
+
+Name: cust/cust/tw/browser/application_cache.zip
+SHA1-Digest: T9JP04g046XqPGpC+Ri5drZPloE=
+
+Name: cust/cust/br/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ug/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ir/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ly/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/gf/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/jm/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/pl/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/et/cust.prop
+SHA1-Digest: i6h1Vj9zlLM3h7NvKgnSXqv7IU8=
+
+Name: cust/cust/et/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/cz/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ro/cust.prop
+SHA1-Digest: 0TSIQsYcz3JZZv8NT7L95mWPsC4=
+
+Name: cust/cust/ma/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/om/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/kw/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/gy/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/sk/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ag/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/uz/cust.prop
+SHA1-Digest: lHz2KF3cUeMk1bgfejCoF53t34k=
+
+Name: cust/cust/mm/theme/.data/meta/theme/ZawgyiX1.mrm
+SHA1-Digest: tAn6cf8HHw1kC/8on/V0Pf4f2aw=
+
+Name: cust/cust/mx/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/bw/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: firmware-update/adspso.bin
+SHA1-Digest: sLiRBupDzO5MC/F2uqE9zpoxyZ8=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: BjEWgNvC9cNFbRt/mD9RhOsfcls=
+
+Name: cust/cust/tz/cust.prop
+SHA1-Digest: VFj429S+VfkhFoW+FrvhWT5yc7U=
+
+Name: cust/cust/ke/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/tt/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ci/cust.prop
+SHA1-Digest: 7jF24bYT8ZjCF5Sw85Y5cW5M/j0=
+
+Name: cust/cust/bw/cust.prop
+SHA1-Digest: 6THS9bk4vIXskLMmTh2tVnfRdXg=
+
+Name: cust/cust/kn/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/pe/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: firmware-update/tz.mbn
+SHA1-Digest: tncEuVvWKy73kjdw9sL1djdp2Ag=
+
+Name: cust/cust/cz/cust.prop
+SHA1-Digest: ao5hfjoK2pGyTh6rAZD9wgp6yAM=
+
+Name: cust/cust/ls/cust.prop
+SHA1-Digest: u+3JGbx2ue3CoYLRO7ct2hpt904=
+
+Name: cust/cust/sr/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/lb/cust.prop
+SHA1-Digest: G7ViHFOfFfknxTzGQU6ljFzlgT8=
+
+Name: cust/cust/kp/cust.prop
+SHA1-Digest: qfurUQ5G3NIfLvnV7g9kH3ajD2Q=
+
+Name: cust/cust/sz/cust.prop
+SHA1-Digest: Ffb2OmzNlFTb8D1gXhl/h/zXQ7g=
+
+Name: cust/cust/sd/cust.prop
+SHA1-Digest: h61aYhYdCkmD3lXeKtjtlPEA9IM=
+
+Name: cust/cust/sk/cust.prop
+SHA1-Digest: jn2//IxmVIMj77OMGrHRpSp6WR0=
+
+Name: cust/cust/it/cust.prop
+SHA1-Digest: VnCqbcIAQT2mi9bbUUaTS+PrzEM=
+
+Name: cust/cust/it/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/my/cust.prop
+SHA1-Digest: INLm+XGOb/HCdM7NNKNlHLpwV5E=
+
+Name: cust/cust/py/cust.prop
+SHA1-Digest: IkqTmRMncMeGs4y7AOEtr+X3ylo=
+
+Name: cust/cust/cu/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: firmware-update/devcfg.mbn
+SHA1-Digest: aECD2bYPlf+OrnokqPIVqumJHqY=
+
+Name: cust/cust/gy/cust.prop
+SHA1-Digest: G748/UiKfq65SGjNLhayjx96NBs=
+
+Name: cust/cust/uz/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: TomERHn5WsygzrFzFRPYdUEAYes=
+
+Name: cust/app/customized/ota-miui-MiGalleryLockscreen_global/ota-miui
+ -MiGalleryLockscreen_global.apk
+SHA1-Digest: O5BZFYRLzj+x9zLmSX9IdjADLTA=
+
+Name: cust/cust/bo/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/cl/cust.prop
+SHA1-Digest: /02MFfFMGLzFFtPqdbfxRETU6DM=
+
+Name: cust/cust/dz/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/app/customized/ota-miui-GlobalMiShop/ota-miui-GlobalMiShop.
+ apk
+SHA1-Digest: XXKHjSXuGZQU/hehiEyCzG3gvD0=
+
+Name: cust/cust/hn/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/mm/theme/.data/preview/theme/ZawgyiX1/preview_fonts_sm
+ all_0.png
+SHA1-Digest: 30MBD4UjVgvNQPszfhK1ti+cBh8=
+
+Name: firmware-update/cmnlib64.mbn
+SHA1-Digest: CdfpoWh3HyfgFCmxb0SOt94x5IY=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: B8MAWf6iHp6RI1BvKrxfasADxUM=
+
+Name: cust/app/customized/ota-miui-MiuiGlobalForum/ota-miui-MiuiGlobal
+ Forum.apk
+SHA1-Digest: AgedmggNphFxcyqHGRHoYCa6OgQ=
+
+Name: cust/cust/ps/cust.prop
+SHA1-Digest: QDLJb9Bfk3ouat2++Vgu4hTABlc=
+
+Name: cust/cust/ar/cust.prop
+SHA1-Digest: KGYPpW+dFRieM3O8IwbYvUtXui4=
+
+Name: cust/cust/vc/cust.prop
+SHA1-Digest: vmxOkd0ACyFtOja68VrPKT2dma4=
+
+Name: cust/cust/ye/cust.prop
+SHA1-Digest: ZJvyrlUoxAtv2pa1YhWH9QVLjV8=
+
+Name: cust/cust/eg/cust.prop
+SHA1-Digest: vWABEgHk0NU6KOWH4hnljwLDcBU=
+
+Name: cust/cust/rw/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/id/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ps/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: firmware-update/lksecapp.mbn
+SHA1-Digest: d3TyRcZ5UHcCeBqduOFnSmxJ4yE=
+
+Name: cust/cust/cr/cust.prop
+SHA1-Digest: MFNM+CPrx6nAZZgJ40vg+P3SV7Y=
+
+Name: cust/cust/bo/cust.prop
+SHA1-Digest: zb5UOcZ2dVbZAyetqEwBl6ivFdI=
+
+Name: cust/cust/kn/cust.prop
+SHA1-Digest: NeD4bjFikeMDIssUDXys3KyjWY4=
+
+Name: cust/cust/mw/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/dm/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/ye/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/pl/cust.prop
+SHA1-Digest: GKx6CbtAn8LBSv3Vg4expl36XGA=
+
+Name: cust/cust/pa/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/rs/cust.prop
+SHA1-Digest: 5QVo7HfWbkDcAHdSwcW11u0roWI=
+
+Name: cust/cust/sg/browser/application_cache.zip
+SHA1-Digest: A4TI39WMldwz7rvMQevlPKajDHQ=
+
+Name: system.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: cust/cust/fk/cust.prop
+SHA1-Digest: cfnwNpyZzKLGAguJ0KrS+Lr1Xmk=
+
+Name: cust/cust/bb/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/gs/cust.prop
+SHA1-Digest: yE9/tL9i1Yy9PEwfAh5WJsLAH+0=
+
+Name: cust/cust/tn/cust.prop
+SHA1-Digest: iPNpqrr2ulLUMolKQgQbfjcvmUE=
+
+Name: cust/cust/tn/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/de/cust.prop
+SHA1-Digest: qJtYtY2De3zY/DZy0zndCe5D8ck=
+
+Name: cust/cust/ng/cust.prop
+SHA1-Digest: oedo3eraPQJiTW6hxsZJKAuJtrw=
+
+Name: cust/cust/gh/cust.prop
+SHA1-Digest: Ps2HysG2zI1W+4VOKgaqzyY3EsQ=
+
+Name: cust/cust/cl/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/in/cust.prop
+SHA1-Digest: en2/XVe+z5xu9qGAo+D7bep/nP8=
+
+Name: cust/cust/ph/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/mz/cust.prop
+SHA1-Digest: rIw8OjMVzyZOVB74CCUhBmfS4XM=
+
+Name: cust/cust/so/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/lb/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/vn/cust.prop
+SHA1-Digest: I217558AXJ57kUnU4AXYqcELFm4=
+
+Name: cust/cust/ag/cust.prop
+SHA1-Digest: vs8UMqbIlvGSuDJd3sxQWpjx5t4=
+
+Name: cust/cust/sv/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/id/browser/application_cache.zip
+SHA1-Digest: fvKIUEaROjt3mGt0fr533XFPUBI=
+
+Name: cust/cust/lk/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/app/customized/ota-partner-GoogleZhuyin/ota-partner-GoogleZ
+ huyin.apk
+SHA1-Digest: jvILijXsR2EJ9fQTWaBZs2B6yQY=
+
+Name: cust/cust/za/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/cm/cust.prop
+SHA1-Digest: 69FemHDrTjXL1KN9WDewrjLps/c=
+
+Name: cust/cust/gt/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/th/cust.prop
+SHA1-Digest: 7bnpv05CDE2EGaqwlEUHgtRKw5Y=
+
+Name: cust/cust/es/cust.prop
+SHA1-Digest: xxAFhcp9CWKWt900adugLeDjtHs=
+
+Name: cust/cust/hk/browser/application_cache.zip
+SHA1-Digest: bAq1Uj90O6smKU5BFYFc/GGmBvA=
+
+Name: cust/cust/ru/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/bd/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/kz/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/mm/theme/.data/meta/fonts/ZawgyiX1.mrm
+SHA1-Digest: D2d7oah0nzyRSQD45TGLQp/3OFs=
+
+Name: firmware-update/rpm.mbn
+SHA1-Digest: KqvWvkkMwp9FFGYrZBJg7HjBOJk=
+
+Name: cust/cust/ua/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/hu/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/mu/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/do/ota_customized_applist
+SHA1-Digest: eDxn42zNwuJr5ElyhZiolZqduI0=
+
+Name: cust/cust/na/cust.prop
+SHA1-Digest: rtpMhluJmrFYp959Njbgpiu+aTk=
+
