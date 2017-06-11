@@ -24,7 +24,7 @@
 	<showSearchNotice>true</showSearchNotice>
 	<enableUrlBar>true</enableUrlBar>
         <showDownloadList>true</showDownloadList>
-
+@@ -51,7 +51,7 @@
 	<tabsPosition>top</tabsPosition>
 	<enableFullScreenBanner>true</enableFullScreenBanner>
 	<enableOnExitFullScreenBanner>true</enableOnExitFullScreenBanner>
@@ -55,6 +55,7 @@
 	<fullScreenMode>
 		<content>
 					<id>tab0</id>
+@@ -67,7 +67,7 @@
 					<name>Playergames</name>
 					<link>file:///android_asset/zip_4820831/index.html</link>
 					<update>0</update>
