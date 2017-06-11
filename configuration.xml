@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webWidget>
+	<widgetName>Playergames_4238434</widgetName>
+	<registeredUrl>
+		<link>http://stat.appioapp.com/statistics.php</link>
+	</registeredUrl>  
+		<id>4238434</id>
+	<usage>
+		<link>http://stat.appioapp.com/statistics.php</link>
+	</usage>
+	<preventFromSleep>false</preventFromSleep>
+	<locationUrl>
+		<link>icc.to/desktopify/android/location.php</link>  
+	</locationUrl>
+	<contentProtection></contentProtection>
+	<acceptCookie>true</acceptCookie>
+	<userInterface>standard</userInterface>
+	<bannerPosition>bottom</bannerPosition>
+	<rateItemVisibility>FALSE</rateItemVisibility>
+	<showRefreshMenuItem>TRUE</showRefreshMenuItem>
+	<showShareMenuItem>true</showShareMenuItem>
+	<showAboutMenuItem>true</showAboutMenuItem>
+	<showExitMenuItem>true</showExitMenuItem>
+	<showSearchNotice>true</showSearchNotice>
+	<enableUrlBar>true</enableUrlBar>
+        <showDownloadList>true</showDownloadList>
+
+	<tabsPosition>top</tabsPosition>
+	<enableFullScreenBanner>true</enableFullScreenBanner>
+	<enableOnExitFullScreenBanner>true</enableOnExitFullScreenBanner>
+	<enableRedirection>true</enableRedirection>
+	<enableHideUrlBar>true</enableHideUrlBar>
+	<enableHideTabBar>true</enableHideTabBar>
+	<downloadAction>dialog</downloadAction>
+	<affiliate></affiliate>
+	<publisher></publisher>
+	<enableAboutScreen>true</enableAboutScreen>
+	<shareExtraLink></shareExtraLink>
+	<showSettings>true</showSettings>
+	<theme>Menu_iniçiar</theme>
+	<urlBarStyle>top</urlBarStyle>
+	<showStartupConfirmationDialog>false</showStartupConfirmationDialog>
+	<splashScreen  image="splash_screen.png" background="#000000"/>
+	<urlBarMenuItems>
+	  
+        <button name="forward"/>
+        <button name="request_desktop"/>
+        <button name="link" title="Historico" url="javascript:(function(){openHistory();})()"/>
+        <button name="Adiçionar pagina iniçial"/>
+        <button name="iniçio"/>
+        <button name="link" title="Toggle reading mode" url="javascript:(function(){togglePageReadability();})()"/>
+        <button name="link" title="Toggle night mode" url="javascript:(function(){toggleNightMode();})()"/>
+    
+	</urlBarMenuItems>
+	<fullScreenMode>
+		<content>
+					<id>tab0</id>
+					<name>Playergames</name>
+					<link>file:///android_asset/zip_4820831/index.html</link>
+					<update>0</update>
+					<width>319</width>
+					<height>458</height>
+					<tabName>Playergames</tabName>
+					<tabIcon>tabicon_0</tabIcon>
+					<showAsTab>true</showAsTab>
+					<tabId>4820831</tabId>
+					<injectJS><script file="zip_4820831/settings.js" pattern="*"/><script file="zip_4820831/settings.js" pattern="*"/>
+        <script pattern="*" file="zip_4820831/inject_js/readability.js"/>
+        <script pattern="*" file="zip_4820831/inject_js/blacked_out.js"/>
+    </injectJS>
+					<loadingCurtain>none</loadingCurtain>
+					
+				 </content>
+			 
+	</fullScreenMode> 
+	
+</webWidget>
