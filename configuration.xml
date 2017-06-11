@@ -40,7 +40,7 @@
 	<theme>Menu_iniçiar</theme>
 	<urlBarStyle>top</urlBarStyle>
 	<showStartupConfirmationDialog>false</showStartupConfirmationDialog>
-	<splashScreen  image="splash_screen.png" background="#000000"/>
+	<splashScreen>image="splash_screen.png" background="#000000"<splashScreen>
 	<urlBarMenuItems>
 	  
         <button name="forward"/>
@@ -74,4 +74,4 @@
 			 
 	</fullScreenMode>
 	
-</webWidget>
+<webWidget>
