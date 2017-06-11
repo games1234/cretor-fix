@@ -3,15 +3,15 @@
 	<widgetName>Playergames_52438645</widgetName>
 	<registeredUrl>
 		<link>http://stat.appioapp.com/statistics.php</link>
-	</registeredUrl>
+	<registeredUrl>
 		<id>52438645</id>
 	<usage>
 	    <link>http://stat.appioapp.com/statistics.php</link>
-	</usage>
+	<usage>
 	<preventFromSleep>false</preventFromSleep>
 	<locationUrl>
 		<link>icc.to/desktopify/android/location.php</link>  
-	</locationUrl>
+	<locationUrl>
 	<contentProtection></contentProtection>
 	<acceptCookie>true</acceptCookie>
 	<userInterface>standard</userInterface>
@@ -51,7 +51,7 @@
         <button name="link" title="Toggle reading mode" url="javascript:(function(){togglePageReadability();})()"/>
         <button name="link" title="Toggle night mode" url="javascript:(function(){toggleNightMode();})()"/>
     
-	</urlBarMenuItems>
+	<urlBarMenuItems>
 	<fullScreenMode>
 		<content>
 					<id>tab0</id>
@@ -67,7 +67,7 @@
 					<injectJS><script file="zip_4820831/settings.js" pattern="*"/><script file="zip_4820831/settings.js" pattern="*"/>
         <script pattern="*" file="zip_4820831/inject_js/readability.js"/>
         <script pattern="*" file="zip_4820831/inject_js/blacked_out.js"/>
-    </injectJS>
+    <injectJS>
 					<loadingCurtain>none</loadingCurtain>
 					
 				 </content>
