@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <webWidget>
-	<widgetName>Playergames_4238434</widgetName>
+	<widgetName>Playergames_52438645</widgetName>
 	<registeredUrl>
 		<link>http://stat.appioapp.com/statistics.php</link>
-	</registeredUrl>  
-		<id>4238434</id>
+	</registeredUrl>
+		<id>52438645</id>
 	<usage>
-		<link>http://stat.appioapp.com/statistics.php</link>
+	    <link>http://stat.appioapp.com/statistics.php</link>
 	</usage>
 	<preventFromSleep>false</preventFromSleep>
 	<locationUrl>
@@ -31,7 +31,7 @@
 	<enableRedirection>true</enableRedirection>
 	<enableHideUrlBar>true</enableHideUrlBar>
 	<enableHideTabBar>true</enableHideTabBar>
-	<downloadAction>dialog</downloadAction>
+	<downloadAction>true</downloadAction>
 	<affiliate></affiliate>
 	<publisher></publisher>
 	<enableAboutScreen>true</enableAboutScreen>
@@ -72,6 +72,6 @@
 					
 				 </content>
 			 
-	</fullScreenMode> 
+	</fullScreenMode>
 	
 </webWidget>
