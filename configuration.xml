@@ -28,6 +28,7 @@
 	<tabsPosition>top</tabsPosition>
 	<enableFullScreenBanner>true</enableFullScreenBanner>
 	<enableOnExitFullScreenBanner>true</enableOnExitFullScreenBanner>
+@@ -55,6 +55,7 @@
 	<enableRedirection>true</enableRedirection>
 	<enableHideUrlBar>true</enableHideUrlBar>
 	<enableHideTabBar>true</enableHideTabBar>
