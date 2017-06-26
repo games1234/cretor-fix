@@ -1,0 +1,7 @@
+{
+   "allowed_origins" : [ "chrome-extension://kaebhgioafceeldhgjmendlfhbfjefmo/" ],
+   "description" : "Eagleget Downloader",
+   "name" : "com.eagleget.chrome_extension",
+   "path" : "C:\\Program Files\\EagleGet\\EGMonitor.exe",
+   "type" : "stdio"
+}
